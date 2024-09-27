@@ -23,3 +23,5 @@
 <p>
    Additionally, from the dashboard we can choose to view data as we want. This helps us compare the differences between each position, experience and industry.
 </p>
+![image](https://github.com/user-attachments/assets/745087c2-661d-4f4b-af7e-2131b24d5e7f)
+
