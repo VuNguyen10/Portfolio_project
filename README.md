@@ -11,10 +11,12 @@
 </p>
 
 <h2><span style="border: 1px solid; padding: 4px;">3.</span> Approach</h2>
-<ol>
+<ul>
    <li><strong>Data Collecting:</strong> Crawl data from recruitment websites using Octoparse.</li>
    <li><strong>Data Processing:</strong> Store data in MySQL Workbench and perform data ETL.</li>
    <li><strong>Data Warehouse:</strong> Create Dimension and Fact tables and load the cleaned data into them.</li>
    <li><strong>Data Visualization:</strong> Connect Power BI to MySQL Workbench to create visual reports.</li>
    <li><strong>Decision-Making:</strong> Analyze the reports to gain a more visual insight into the labor market, in order to support workers in making better decisions.</li>
-</ol>
+</ul>
+
+<h2><span style="border: 1px solid; padding: 4px;">4.</span> Result</h2>
