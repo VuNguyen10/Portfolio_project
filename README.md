@@ -19,5 +19,7 @@
 <h2><span style="border: 1px solid; padding: 4px;">3.</span> Result</h2>
 <p>
    From the report, we get many different perspectives and evaluations of job postings. Through the report, we can know the average salary, required skills, career opportunities in each region and market demand for candidates field of business and sales... This information allows us to make informed decisions about our future career path and identify the knowledge we need to meet job requirements.
+</p>
+<p>
    Additionally, from the dashboard we can choose to view data as we want. This helps us compare the differences between each position, experience and industry.
 </p>
