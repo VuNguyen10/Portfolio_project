@@ -8,4 +8,4 @@
 - Data processing: Storing data in MySQL Workbench and performing data ETL.
 - Data Warehouse: Create Dim and Fact tables and load the cleaned data into them.
 - Data Visualization: Connect Power BI to MySQL Workbench to create visual reports.
-- Decision-Making: 
+- Decision-Making: Analyze the reports to gain a more visual insight into the labor market, in order to support workers in making better decisions.
