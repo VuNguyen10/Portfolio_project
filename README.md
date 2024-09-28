@@ -26,3 +26,11 @@
 <p align="center">
   <img src="Image/Overview.jpg" alt="Recruitment Dashboard" width="100%">
 </p>
+
+<p align="center">
+  <img src="Image/Salary.jpg" alt="Recruitment Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <img src="Image/Employee.jpg" alt="Recruitment Dashboard" width="100%">
+</p>
