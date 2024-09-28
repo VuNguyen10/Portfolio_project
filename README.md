@@ -24,5 +24,5 @@
    Additionally, from the dashboard we can choose to view data as we want. This helps us compare the differences between each position, experience and industry.
 </p>
 <p align="center">
-  <img src="Image/Overview.jpg" alt="Recruitment Dashboard" width="800">
+  <img src="Image/Overview.jpg" alt="Recruitment Dashboard" width="100%">
 </p>
